@@ -1,5 +1,5 @@
 {
-    "name": "line follower extension ver5",
+    "name": "pxt-line follower extension",
     "description": "",
     "dependencies": {
         "core": "*",
